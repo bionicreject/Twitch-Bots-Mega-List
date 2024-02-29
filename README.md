@@ -1,5 +1,5 @@
 [![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-orange)](https://github.com/your-username/your-repo)
-# BotBanisher: Your Twitch Defense Against Bot Raids
+# Twitch BotBanisher: Your Streams Defense Against Bots
 
 Tired of endless bot attacks ruining your Twitch streams? BotBanisher is your solution! This extensive list of Twitch bots offers robust tools to mass ban those pesky raiders and protect your community.
 
