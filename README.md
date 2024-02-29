@@ -32,6 +32,6 @@ Join the Fight Against Bots!
 If you know a Twitch bot that isn't on the list, please suggest it for inclusion in the list! Let's work together to safeguard the Twitch community.
 All additions will be carefully verified to ensure the safety of non-bots. 
 
-Show Some Love
+*Show Some Love*
 
 Developing and maintaining BotBanisher takes effort! Show your support by dropping a follow on my Twitch channel: https://twitch.tv/lite2000
