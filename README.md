@@ -19,9 +19,10 @@ Protect Your Stream: Relax and enjoy a bot-free Twitch experience!
 ## Example Bot Usage
 
 CommanderRoot: Versatile bot with customizable ban lists and moderation commands.
+
 Nightbot: Popular choice for automated moderation and chat features.
-<Other bot recommendations specific to mass banning>
-Disclaimer
+
+### Disclaimer
 
 Please use these bots responsibly and adhere to Twitch's Terms of Service. BotBanisher is intended to combat malicious bots, not genuine viewers.
 
