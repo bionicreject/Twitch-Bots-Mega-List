@@ -25,7 +25,7 @@ Nightbot: Popular choice for automated moderation and chat features.
 
 ### Disclaimer
 
-Please use these bots responsibly and adhere to Twitch's Terms of Service. BotBanisher is intended to combat malicious bots, not genuine viewers.
+Please use these this program responsibly and adhere to Twitch's Terms of Service. BotBanisher is intended to combat malicious bots, not genuine viewers.
 
 Join the Fight Against Bots!
 
